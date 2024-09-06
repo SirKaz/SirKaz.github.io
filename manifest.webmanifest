@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "short_name": "Test",
+  "name": "PortfolioSource",
+  "short_name": "PortfolioSource",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
